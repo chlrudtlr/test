@@ -7,9 +7,8 @@ int main(){
 
     // This is Git Project1
 
-    cout << "1" << endl;
-    cout << "2" << endl;
-    cout << "3" << endl;
+    cout << "test 1" << endl;
+    cout << "hahahah" << endl;
     
     return 0;
 }
