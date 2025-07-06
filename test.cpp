@@ -2,17 +2,10 @@
 
 using namespace std;
 
-int main(){
-    cout << "Hello World" << endl;
-    
+int main(){ 
     cout << "This is main branch" << endl;
 
-    cout << "Hello" <<endl;
-    cout << "My name is" <<endl;
-    cout << "CKS" <<endl;
-
-    // write directly in GitHub Website
-    // hahahaha
+    // changing test.cpp file
     
     return 0;
 }
